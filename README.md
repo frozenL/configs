@@ -3,3 +3,4 @@ This repo is supposed to contain all the config files that I use for setting up 
 
 However, currently it has:
 - `.zshrc`
+- `material-design-colors.itermcolors`: iTerms color profile
